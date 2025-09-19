@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "María González",
+    "rating": 5,
+    "comment": "Excelente servicio y productos muy frescos. La entrega fue rápida y el pago contra entrega muy conveniente.",
+    "date": "2025-08-15",
+    "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "2",
+    "name": "Carlos Rodríguez",
+    "rating": 4,
+    "comment": "Buenos precios y variedad. Solo sugiero mejorar el empaque de algunos productos frágiles.",
+    "date": "2025-08-10",
+    "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Ana López",
+    "rating": 5,
+    "comment": "Me encanta poder hacer el pedido por WhatsApp. Muy fácil y rápido. Los productos llegaron perfectos.",
+    "date": "2025-07-08",
+    "avatar": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "Roberto Silva",
+    "rating": 4,
+    "comment": "Buena calidad en general, aunque el tiempo de entrega fue un poco más largo de lo esperado.",
+    "date": "2025-07-05",
+    "avatar": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "5",
+    "name": "Laura Martín",
+    "rating": 5,
+    "comment": "Perfectos para la despensa familiar. Precios justos y atención personalizada. Definitivamente volveré a comprar.",
+    "date": "2025-07-02",
+    "avatar": "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "6",
+    "name": "Andrés Castaño",
+    "rating": 5,
+    "comment": "Muy cumplidos con el envío. Pedí en la noche y al otro día ya estaba todo en la casa. Súper recomendado.",
+    "date": "2025-06-12",
+    "avatar": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "7",
+    "name": "Paola Ramírez",
+    "rating": 4,
+    "comment": "Todo bien, solo que el domiciliario se demoró un poquito más de lo que dijeron, pero llegó completo y fresco.",
+    "date": "2025-04-11",
+    "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "8",
+    "name": "Julián Torres",
+    "rating": 5,
+    "comment": "Muy bacano poder pagar contra entrega. Me dio confianza hacer el pedido, y todo llegó tal cual lo pedí.",
+    "date": "2025-04-09",
+    "avatar": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "9",
+    "name": "Diana Quintero",
+    "rating": 5,
+    "comment": "Los víveres llegaron fresquitos, nada golpeado. La atención por WhatsApp fue rápida, quedé feliz con la compra.",
+    "date": "2025-04-07",
+    "avatar": "https://images.pexels.com/photos/3760854/pexels-photo-3760854.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "10",
+    "name": "Felipe Montoya",
+    "rating": 4,
+    "comment": "Muy buenos precios. El envío costó un poquito más de lo que esperaba, pero igual valió la pena por la calidad.",
+    "date": "2025-01-06",
+    "avatar": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  }
+]
