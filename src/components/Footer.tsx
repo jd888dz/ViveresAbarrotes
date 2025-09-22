@@ -1,6 +1,15 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import { Store, Phone, Mail, MapPin, Clock, Facebook, Instagram, Twitter } from 'lucide-react';
+import React from "react";
+import { motion } from "framer-motion";
+import {
+  Store,
+  Phone,
+  Mail,
+  MapPin,
+  Clock,
+  Facebook,
+  Instagram,
+  Twitter,
+} from "lucide-react";
 
 const Footer: React.FC = () => {
   const currentYear = new Date().getFullYear();
@@ -21,9 +30,9 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold">Víveres y Abarrotes S.A.</h3>
             </div>
             <p className="text-gray-300 mb-4 leading-relaxed">
-              Tu tienda de confianza para productos frescos y de calidad. 
-              Más de 10 años sirviendo a familias con los mejores precios 
-              y servicio personalizado.
+              Tu tienda de confianza para productos frescos y de calidad. Más de
+              10 años sirviendo a familias con los mejores precios y servicio
+              personalizado.
             </p>
             <div className="flex gap-4">
               <motion.a
@@ -64,7 +73,7 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3">
                 <Phone className="h-4 w-4 text-green-400 flex-shrink-0" />
-                <span className="text-gray-300">+57 300 123 4567</span>
+                <span className="text-gray-300">+57 317 779 50 94</span>
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="h-4 w-4 text-green-400 flex-shrink-0" />
@@ -73,9 +82,11 @@ const Footer: React.FC = () => {
               <div className="flex items-start gap-3">
                 <MapPin className="h-4 w-4 text-green-400 flex-shrink-0 mt-1" />
                 <span className="text-gray-300">
-                  Calle 123 #45-67<br />
-                  Barrio Centro<br />
-                  Bogotá, Colombia
+                  Cra 17 #14-16
+                  <br />
+                  Bodega #12
+                  <br />
+                  Popayán, Cauca
                 </span>
               </div>
             </div>
@@ -121,12 +132,12 @@ const Footer: React.FC = () => {
             <h4 className="text-lg font-semibold mb-4">Enlaces Rápidos</h4>
             <div className="space-y-2">
               {[
-                { name: 'Sobre Nosotros', href: '#about' },
-                { name: 'Catálogo', href: '#catalog' },
-                { name: 'Ofertas', href: '#offers' },
-                { name: 'Reseñas', href: '#reviews' },
-                { name: 'Preguntas Frecuentes', href: '#faq' },
-                { name: 'Contacto', href: '#contact' }
+                { name: "Sobre Nosotros", href: "#about" },
+                { name: "Catálogo", href: "#catalog" },
+                { name: "Ofertas", href: "#offers" },
+                { name: "Reseñas", href: "#reviews" },
+                { name: "Preguntas Frecuentes", href: "#faq" },
+                { name: "Contacto", href: "#contact" },
               ].map((link) => (
                 <motion.a
                   key={link.name}
@@ -136,7 +147,7 @@ const Footer: React.FC = () => {
                   onClick={(e) => {
                     e.preventDefault();
                     const element = document.querySelector(link.href);
-                    element?.scrollIntoView({ behavior: 'smooth' });
+                    element?.scrollIntoView({ behavior: "smooth" });
                   }}
                 >
                   {link.name}
@@ -159,13 +170,14 @@ const Footer: React.FC = () => {
             viewport={{ once: true }}
           >
             <p className="text-gray-400 text-sm">
-              © {currentYear} Víveres y Abarrotes S.A. Todos los derechos reservados.
+              © {currentYear} Víveres y Abarrotes S.A. Todos los derechos
+              reservados.
             </p>
             <p className="text-gray-500 text-xs mt-1">
-              NIT: 900.123.456-7 | Registro Mercantil: 12345
+              NIT: 90.123.987-6 | Registro Mercantil: 74965
             </p>
           </motion.div>
-          
+
           <motion.div
             className="flex gap-4 text-xs text-gray-400"
             initial={{ opacity: 0 }}
@@ -194,14 +206,16 @@ const Footer: React.FC = () => {
           <h4 className="text-lg font-semibold mb-4 text-center">
             Encuéntranos
           </h4>
-          <div className="w-full h-64 bg-gray-700 rounded-lg flex items-center justify-center">
-            <p className="text-gray-400 text-center">
-              <MapPin className="h-8 w-8 mx-auto mb-2" />
-              Aquí puedes embebder Google Maps<br />
-              <span className="text-sm">
-                Calle 123 #45-67, Barrio Centro, Bogotá
-              </span>
-            </p>
+          <div className="w-full h-64 rounded-lg overflow-hidden">
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2124.3180645419006!2d-76.61831239937332!3d2.436078550260923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e300301f31a8e29%3A0x7129fbbbe0b4f0b7!2sCarrera%2017B%20La%20Ladera%20Popay%C3%A1n!5e0!3m2!1sen!2sco!4v1758554490662!5m2!1sen!2sco"
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
           </div>
         </motion.div>
       </div>

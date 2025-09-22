@@ -1,6 +1,6 @@
 // Configuración de WhatsApp
 // ⚠️ IMPORTANTE: Cambia este número por el número real de WhatsApp de tu tienda
-export const WHATSAPP_NUMBER = '+573001234567'; // Reemplaza con tu número
+export const WHATSAPP_NUMBER = '+573177795094'; // Reemplaza con tu número
 
 // Función para generar mensaje de WhatsApp para un producto
 export const generateProductMessage = (

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "MERC-001",
+    "name": "Mercado Completo",
+    "sku": "MERC-070K-COMPLETO",
+    "price": 70000,
+    "originalPrice": null,
+    "currency": "COP",
+    "image": "/public/ofertas/Promo2.png",
+    "category": "Mercados",
+    "rating": 4.9,
+    "stock": 100,
+    "isOffer": true,
+    "isNew": false,
+    "shippingIncluded": true,
+    "condition": "Sellado, estado original",
+    "consumptionDeadline": "2025-11-05",
+    "tags": ["mercado", "oferta", "envío incluido", "pack"],
+    "description": "Todos los productos vienen sellados, originales y en excelente estado. Deben consumirse antes del 5 de noviembre de 2025. Contenido: 18 rollos de papel higiénico Elite; 1 galón de aceite Premier x 3 litros; 25 libras de arroz Roa; 25 libras de azúcar Riopaila; 3 libras de lentejas; 3 libras de frijol rojo; 3 libras de garbanzo; 3 libras de arveja; 2 kilos de panela; 3 paquetes de spaghetti Doria; 3 paquetes de fideo sopa Doria; 3 libras de sal Refrisal; 3 libras de harina La Nevada; 1 kilo de café Águila Roja; 1 libra de manteca; 1 libra de chocolate Corona."
+  },
+  {
+    "id": "MERC-002",
+    "name": "Mercado en Promoción",
+    "sku": "MERC-070K-PROMO",
+    "price": 70000,
+    "originalPrice": null,
+    "currency": "COP",
+    "image": "/public/ofertas/Promo1.png",
+    "category": "Mercados",
+    "rating": 4.9,
+    "stock": 100,
+    "isOffer": true,
+    "isNew": false,
+    "shippingIncluded": true,
+    "condition": "Sellado, estado original",
+    "consumptionDeadline": "2025-10-27",
+    "tags": ["mercado", "promoción", "envío incluido", "pack"],
+    "description": "Todos los productos vienen sellados, originales y en excelente estado. Deben consumirse antes del 27 de octubre de 2025. Contenido: 5 litros de aceite; 25 libras de arroz; 1 kilo de café; 1 kilo de panela; 1 paquete de spaghetti grande; 1 kilo de harina Pan; 5 kilos de azúcar; 3 latas de atún Isabel; 1 kilo de sal; 1 caja de Completísimo."
+  }
+]
