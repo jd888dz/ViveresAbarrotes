@@ -83,7 +83,7 @@ const Hero: React.FC = () => {
 
             <div className="relative">
               <motion.img
-                src="/ofertas/Hero.png"
+                src="/ofertas/Hero.webp"
                 alt="Productos frescos de calidad"
                 className="rounded-lg shadow-2xl w-full h-auto"
                 animate={{
