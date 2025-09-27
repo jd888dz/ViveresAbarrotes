@@ -80,9 +80,10 @@ const Hero: React.FC = () => {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
           >
+
             <div className="relative">
               <motion.img
-                src="https://images.pexels.com/photos/264537/pexels-photo-264537.jpeg?auto=compress&cs=tinysrgb&w=600"
+                src="/ofertas/Hero.png"
                 alt="Productos frescos de calidad"
                 className="rounded-lg shadow-2xl w-full h-auto"
                 animate={{

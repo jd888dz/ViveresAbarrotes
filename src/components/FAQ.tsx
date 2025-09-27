@@ -13,11 +13,6 @@ const FAQ: React.FC = () => {
 
   const faqs: FAQItem[] = [
     {
-      id: '1',
-      question: '¿Cómo funciona el pago contra entrega?',
-      answer: 'Es muy simple: haces tu pedido por WhatsApp, nosotros te confirmamos la disponibilidad y el costo de envío, y cuando recibas tus productos en tu domicilio, pagas el total (productos + envío) directamente al repartidor. No necesitas hacer pagos anticipados.'
-    },
-    {
       id: '2',
       question: '¿Cuál es el tiempo de entrega?',
       answer: 'Nuestros envíos se realizan en un plazo de 24 a 48 horas hábiles, dependiendo de tu ubicación y la disponibilidad de los productos. Para pedidos urgentes, consulta por WhatsApp sobre nuestro servicio express.'

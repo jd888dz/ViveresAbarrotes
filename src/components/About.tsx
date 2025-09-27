@@ -1,29 +1,32 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import { Shield, Truck, Clock, Star } from 'lucide-react';
+import React from "react";
+import { motion } from "framer-motion";
+import { Shield, Truck, Clock, Star } from "lucide-react";
 
 const About: React.FC = () => {
   const values = [
     {
       icon: Shield,
-      title: 'Calidad Garantizada',
-      description: 'Productos frescos y de primera calidad seleccionados cuidadosamente'
+      title: "Calidad Garantizada",
+      description:
+        "Productos frescos y de primera calidad seleccionados cuidadosamente",
     },
     {
       icon: Truck,
-      title: 'Envíos Rápidos',
-      description: 'Entregas en 24-48 horas con el mejor cuidado de tus productos'
+      title: "Envíos Rápidos",
+      description:
+        "Entregas en 24-48 horas con el mejor cuidado de tus productos",
     },
     {
       icon: Clock,
-      title: 'Pago Contra Entrega',
-      description: 'Paga cuando recibas tu pedido, sin pagos anticipados'
+      title: "Atención Personalizada",
+      description: "Soporte dedicado y asesoría para resolver todas tus dudas",
     },
     {
       icon: Star,
-      title: 'Mejores Precios',
-      description: 'Precios competitivos y ofertas especiales para nuestros clientes'
-    }
+      title: "Mejores Precios",
+      description:
+        "Precios competitivos y ofertas especiales para nuestros clientes",
+    },
   ];
 
   return (
@@ -40,12 +43,13 @@ const About: React.FC = () => {
             ¿Por qué elegir Víveres y Abarrotes S.A.?
           </h2>
           <p className="text-lg text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Somos una empresa familiar dedicada a brindar productos de primera calidad 
-            para tu hogar. Con más de 10 años de experiencia, nos especializamos en 
-            víveres frescos, abarrotes y productos básicos para la despensa familiar. 
-            Nuestro compromiso es ofrecerte la mejor experiencia de compra con 
-            <strong className="text-green-600"> productos frescos</strong>, 
-            <strong className="text-green-600"> precios justos</strong> y 
+            Somos una empresa familiar dedicada a brindar productos de primera
+            calidad para tu hogar. Con más de 10 años de experiencia, nos
+            especializamos en víveres frescos, abarrotes y productos básicos
+            para la despensa familiar. Nuestro compromiso es ofrecerte la mejor
+            experiencia de compra con
+            <strong className="text-green-600"> productos frescos</strong>,
+            <strong className="text-green-600"> precios justos</strong> y
             <strong className="text-green-600"> servicio personalizado</strong>.
           </p>
         </motion.div>
@@ -67,11 +71,11 @@ const About: React.FC = () => {
               >
                 <value.icon className="h-8 w-8 text-green-600" />
               </motion.div>
-              
+
               <h3 className="text-xl font-semibold text-gray-800 mb-2">
                 {value.title}
               </h3>
-              
+
               <p className="text-gray-600 leading-relaxed">
                 {value.description}
               </p>
@@ -94,7 +98,7 @@ const About: React.FC = () => {
             </div>
             <div>
               <h4 className="text-2xl font-bold text-blue-600 mb-2">100%</h4>
-              <p className="text-gray-700">Pago contra entrega</p>
+              <p className="text-gray-700">Atención Personalizada</p>
             </div>
             <div>
               <h4 className="text-2xl font-bold text-orange-600 mb-2">+500</h4>
