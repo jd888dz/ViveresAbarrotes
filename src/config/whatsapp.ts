@@ -19,7 +19,6 @@ Me interesa comprar:
 💸 Total: $${(price * quantity).toLocaleString('es-CO')}
 
 📋 Información importante:
-✅ Pago contra entrega del pedido
 🚚 Se debe cancelar el valor del envío
 ⏱️ Envíos en 24-48h
 
