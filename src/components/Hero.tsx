@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
               transition={{ duration: 0.8, delay: 0.4 }}
             >
               Productos frescos y de calidad directo a tu hogar. 
-              <strong className="text-green-700"> Pago contra entrega</strong> y 
+              <strong className="text-green-700"> Servicio Personalizado</strong> y 
               <strong className="text-green-700"> envíos en 24-48h</strong>.
             </motion.p>
 

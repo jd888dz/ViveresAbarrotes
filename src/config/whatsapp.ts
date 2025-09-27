@@ -46,7 +46,6 @@ ${product ? `📦 Producto de interés: ${product}\n` : ''}
 💬 Mensaje: ${message}
 
 📋 Recordatorio:
-✅ Pago contra entrega del pedido
 🚚 Se debe cancelar el valor del envío
 ⏱️ Envíos en 24-48h
 
