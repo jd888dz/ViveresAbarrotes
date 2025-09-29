@@ -16,7 +16,7 @@
     "condition": "Sellado, estado original",
     "consumptionDeadline": "2025-12-05",
     "tags": ["mercado", "oferta", "envío incluido", "pack"],
-    "description": "Todos los productos vienen sellados, originales y en excelente estado. Deben consumirse antes del 5 de noviembre de 2025. Contenido: 18 rollos de papel higiénico Elite; 1 galón de aceite Premier x 3 litros; 25 libras de arroz Roa; 25 libras de azúcar Riopaila; 3 libras de lentejas; 3 libras de frijol rojo; 3 libras de garbanzo; 3 libras de arveja; 2 kilos de panela; 3 paquetes de spaghetti Doria; 3 paquetes de fideo sopa Doria; 3 libras de sal Refrisal; 3 libras de harina La Nevada; 1 kilo de café Águila Roja; 1 libra de manteca; 1 libra de chocolate Corona."
+    "description": "Mercado completo y variado con productos sellados, originales y en excelente estado. Contiene arroz, azúcar, aceite, lentejas, frijol, garbanzo, arveja, panela, pastas, sal, harina, café, manteca y chocolate. Ideal para surtir el hogar de manera económica y segura. Todos los alimentos deben consumirse antes del 5 de diciembre de 2025. Incluye envío nacional."
   },
   {
     "id": "MERC-002",
@@ -35,7 +35,7 @@
     "condition": "Sellado, estado original",
     "consumptionDeadline": "2025-11-27",
     "tags": ["mercado", "promoción", "envío incluido", "pack"],
-    "description": "Todos los productos vienen sellados, originales y en excelente estado. Deben consumirse antes del 27 de octubre de 2025. Contenido: 5 litros de aceite; 25 libras de arroz; 1 kilo de café; 1 kilo de panela; 1 paquete de spaghetti grande; 1 kilo de harina Pan; 5 kilos de azúcar; 3 latas de atún Isabel; 1 kilo de sal; 1 caja de Completísimo."
+    "description": "Pack promocional que incluye arroz, azúcar, aceite, café, panela, pastas, harina, sal y atún enlatado, todo sellado y en perfecto estado. Ideal para la despensa familiar o negocios pequeños, garantizando ahorro y calidad. Todos los productos deben consumirse antes del 27 de noviembre de 2025. Incluye envío a todo el país con garantía de frescura."
   },
   {
     "id": "MERC-003",
@@ -54,7 +54,7 @@
     "condition": "Sellado, estado original",
     "consumptionDeadline": "2025-12-05",
     "tags": ["mercado", "oferta", "pack"],
-    "description": "Contenido: 25 libras de arroz; 5 kilos de azúcar; 5 litros de aceite; 1 kilo de sal; 4 latas de atún. Todo sellado y en excelente estado. Fecha de consumo antes del 5 de noviembre de 2025."
+    "description": "Combo económico con arroz, azúcar, aceite, sal y atún enlatado. Cada producto está sellado y en excelente estado para consumo seguro. Este paquete es perfecto para complementar la despensa básica y obtener un ahorro significativo. Todos los alimentos deben consumirse antes del 5 de diciembre de 2025. No incluye envío, se retira en punto autorizado."
   },
   {
     "id": "MERC-004",
@@ -73,7 +73,7 @@
     "condition": "Primera selección",
     "consumptionDeadline": "2026-03-01",
     "tags": ["papa", "capira", "promoción", "envío incluido"],
-    "description": "Promoción de 3 bultos de papa Capira de primera selección. Precio total $45.000. Envíos a todo el país."
+    "description": "Promoción especial de 3 bultos de papa Capira seleccionada de primera calidad. Producto fresco, ideal para consumo diario, restaurantes o negocios de alimentos. Su textura y sabor garantizan la mejor experiencia en la cocina. Deben consumirse antes del 1 de marzo de 2026. Incluye envío nacional con empaque adecuado para conservar la frescura."
   },
   {
     "id": "MERC-005",
@@ -92,7 +92,7 @@
     "condition": "Sellado, estado original",
     "consumptionDeadline": "2025-12-02",
     "tags": ["arroz", "roa", "flor huila", "promoción"],
-    "description": "Paca de arroz de 25 libras. Promoción: paga 10 lleva 12 por $100.000. Aplica solo para marcas Roa y Flor Huila. Fecha de vencimiento 2 de octubre de 2025."
+    "description": "Paca de arroz de 25 libras en promoción: paga 10 y lleva 12 por $100.000. Aplica exclusivamente para las marcas Roa y Flor Huila, garantizando calidad y frescura en cada grano. Producto sellado y en excelente estado, con fecha de vencimiento hasta el 2 de diciembre de 2025. Opción ideal para surtir negocios o el hogar. No incluye envío."
   },
   {
     "id": "MERC-006",
@@ -111,6 +111,25 @@
     "condition": "Sellado, estado original",
     "consumptionDeadline": "2026-01-07",
     "tags": ["mercado", "promoción", "envío incluido"],
-    "description": "Contenido: 25 libras de arroz; 5 litros de aceite; 5 kilos de azúcar; 1 libra de café. Precio promocional de $46.000 con envío a todo el país."
+    "description": "Combo ahorro con arroz, azúcar, aceite y café en presentación práctica y sellada, ideal para el hogar o negocios pequeños. Los productos vienen en perfecto estado y se entregan con envío incluido a nivel nacional. Fecha límite de consumo: 7 de enero de 2026. Una opción económica y segura para mantener abastecida la despensa sin pagar de más."
+  },
+  {
+    "id": "MERC-007",
+    "name": "Promoción Arroz Surtido",
+    "sku": "MERC-100K-ARROZSURT",
+    "price": 100000,
+    "originalPrice": null,
+    "currency": "COP",
+    "image": "/ofertas/Arroz.webp",
+    "category": "Granos",
+    "rating": 4.9,
+    "stock": 75,
+    "isOffer": true,
+    "isNew": false,
+    "shippingIncluded": true,
+    "condition": "Sellado, estado original",
+    "consumptionDeadline": "2025-12-13",
+    "tags": ["arroz", "surtido", "promoción", "envío incluido", "granos"],
+    "description": "Promoción especial: 5 pacas de arroz surtidas por solo $100.000. Cada paca viene sellada, en perfecto estado y con marcas de primera calidad. Este paquete es ideal para surtir el hogar o negocios con ahorro asegurado. Todos los productos cuentan con fecha de vencimiento hasta el 13 de diciembre de 2025. Incluye envío a todo el país para mayor comodidad."
   }
 ]
