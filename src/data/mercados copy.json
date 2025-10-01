@@ -1,5 +1,24 @@
 [
   {
+    "id": "MERC-001",
+    "name": "Mercado Completo",
+    "sku": "MERC-070K-COMPLETO",
+    "price": 50000,
+    "originalPrice": null,
+    "currency": "COP",
+    "image": "/ofertas/Promo2.webp",
+    "category": "Mercados",
+    "rating": 4.9,
+    "stock": 100,
+    "isOffer": true,
+    "isNew": false,
+    "shippingIncluded": true,
+    "condition": "Sellado, estado original",
+    "consumptionDeadline": "2025-12-05",
+    "tags": ["mercado", "oferta", "pack"],
+    "description": "Mercado completo con productos sellados y en perfecto estado, ideal para surtir la despensa del hogar. Incluye 18 rollos de papel higiénico Elite, 1 galón de aceite Premier de 3 litros, 25 libras de arroz Roa, 25 libras de azúcar Riopaila, 3 libras de lentejas, 3 libras de frijol rojo, 3 libras de garbanzo, 3 libras de arveja, 2 kilos de panela, 3 paquetes de spaghetti Doria, 3 paquetes de fideo Doria, 3 libras de sal Refrisal, 3 libras de harina La Nevada, 1 kilo de café Águila Roja, 1 libra de manteca y 1 libra de chocolate Corona. Consumir antes del 5 de diciembre de 2025."
+  },
+  {
     "id": "MERC-008",
     "name": "Promoción Inicio de Mes",
     "sku": "MERC-102K-INICIO",
