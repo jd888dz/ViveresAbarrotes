@@ -78,5 +78,87 @@
     "comment": "Muy buenos precios. El envío costó un poquito más de lo que esperaba, pero igual valió la pena por la calidad.",
     "date": "2025-01-06",
     "avatar": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "11",
+    "name": "Camila Restrepo",
+    "rating": 5,
+    "comment": "Pedí frutas y verduras y llegaron fresquitas, parecía que las acababan de sacar de la plaza. ¡Una chimba de servicio!",
+    "date": "2025-09-25",
+    "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "12",
+    "name": "Mateo Arias",
+    "rating": 4,
+    "comment": "Muy cumplidos, pero sería bueno que ofrecieran más promos de mercado los fines de semana.",
+    "date": "2025-09-28",
+    "avatar": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "13",
+    "name": "Yessica Gómez",
+    "rating": 5,
+    "comment": "Pedí un mercado completo para la casa y todo llegó bien empacado, nada dañado. Muy buena atención del domiciliario.",
+    "date": "2025-10-01",
+    "avatar": "https://images.pexels.com/photos/3760854/pexels-photo-3760854.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "14",
+    "name": "Juan Pablo Mejía",
+    "rating": 5,
+    "comment": "Excelente todo, hasta me llamaron para confirmar la dirección porque vivo en una vereda cerca de Medellín. Muy atentos.",
+    "date": "2025-10-02",
+    "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "15",
+    "name": "Natalia Herrera",
+    "rating": 4,
+    "comment": "Todo muy bien, pero ojalá incluyan más marcas colombianas, como café de origen o panela artesanal.",
+    "date": "2025-09-30",
+    "avatar": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  }
+]
+[
+  {
+    "id": "16",
+    "name": "Sebastián Álvarez",
+    "rating": 5,
+    "comment": "Pedí la remesa completa y me ahorré la ida a la tienda del barrio. Todo llegó de una, muy berracos.",
+    "date": "2025-10-02",
+    "avatar": "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "17",
+    "name": "Valentina Ospina",
+    "rating": 4,
+    "comment": "Muy chévere que reciban pago por Nequi y Daviplata, eso facilita todo. El domiciliario fue muy querido.",
+    "date": "2025-10-01",
+    "avatar": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "18",
+    "name": "Jhon Jairo Bedoya",
+    "rating": 5,
+    "comment": "La atención por WhatsApp fue inmediata. Me respondieron de una y el pedido llegó tal cual, sin enredos. Una nota.",
+    "date": "2025-09-29",
+    "avatar": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "19",
+    "name": "Marcela Villada",
+    "rating": 5,
+    "comment": "Todo estaba fresco, especialmente las arepas y la panela. Se nota que trabajan con productos bien colombianos.",
+    "date": "2025-09-27",
+    "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
+  },
+  {
+    "id": "20",
+    "name": "Óscar Gutiérrez",
+    "rating": 4,
+    "comment": "Muy cumplidos con la entrega. Sería bacano que incluyeran combos para fin de mes, tipo la 'canasta paisa'.",
+    "date": "2025-09-26",
+    "avatar": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop"
   }
 ]
